@@ -12,5 +12,5 @@ Build you RTL (Verilog or VHDL) of the module, and verify it with the C Module.
 
 ---
 # Advanced structured C model.
-# C class template model of elements of Register, Register with Enable, Signal Posedge Detector. (.\elements\*.h files)
+# C class template model of elements of Register, Register with Enable. (.\elements\*.h files)
 # Added circuit diagram (.\circuit_diagram\diag.jpg)
