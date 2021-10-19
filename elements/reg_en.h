@@ -1,10 +1,6 @@
 // -------------------------------------------------------
 // Author  : Lin Junyang
 // Version : 01
-// junyang.lin@cn.innovusion.com
-// 
-// Copyright (c) 2021 Innovusion, Inc. 
-// All rights reserved.
 // -------------------------------------------------------
 
 
